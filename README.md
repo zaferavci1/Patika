@@ -23,3 +23,6 @@ code
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# LoremPicsum
+![LoremPicsumPhoto](https://picsum.photos/200/300)
