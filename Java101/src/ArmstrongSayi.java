@@ -7,7 +7,7 @@ public class ArmstrongSayi {
 
         System.out.println("Sayi giriniz: ");
         int sayi = abc.nextInt();
-        int basamakSayisi = 0,b=sayi,i,toplam=0,c,kontrol=sayi;
+        int basamakSayisi = 0,b=sayi,i,toplam=0,c,kontrol=sayi,basamakToplam=0;
 
 
         while (sayi != 0) {
@@ -24,6 +24,13 @@ public class ArmstrongSayi {
             armstrong[i]=b%10;
             b=b/10;
         }
+        
+        //basamak sayılarını topladık
+        for ( i=0;i<basamakSayisi;i++){
+            basamakToplam+=armstrong[i];
+        }
+        System.out.println("Basamak Toplam: "+basamakToplam);
+
         //dizideki sayıilarin üssünü aldik ve diziye atadik
         for ( i=0;i<basamakSayisi;i++){
             c=armstrong[i];
@@ -40,5 +47,7 @@ public class ArmstrongSayi {
             System.out.println("Sayi bir Armstrong sayidir: "+toplam);
         else
             System.out.println("Bir Armstrong sayi degildir. ");
+
+
     }
 }
