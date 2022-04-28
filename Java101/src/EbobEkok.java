@@ -35,7 +35,6 @@ public class EbobEkok {
             System.out.println("EKOK: "+ekok);
         }
         System.out.println("EBOB: "+ebob);
- //       ***************EKOK******************
 
 
 
