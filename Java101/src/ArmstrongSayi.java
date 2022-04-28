@@ -24,7 +24,7 @@ public class ArmstrongSayi {
             armstrong[i]=b%10;
             b=b/10;
         }
-        
+
         //basamak sayılarını topladık
         for ( i=0;i<basamakSayisi;i++){
             basamakToplam+=armstrong[i];
