@@ -12,8 +12,8 @@ public class UsAlma {
         a=taban;
 
         for (int i=1;i<us;i++){
-           taban=a*taban;
+           taban*=a;
         }
-        System.out.println(taban);
+        System.out.println("Us: "+taban);
     }
 }
