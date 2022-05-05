@@ -14,6 +14,7 @@ public class PalindromSayi {
        for (int i=0;i<basamak;i++){
            sonBasamak=sayi%10;
            temp=(temp*10)+sonBasamak;
+           //sayini yanına sayi eklemek icin suoer bir yontem
            sayi/=10;
        }
 
