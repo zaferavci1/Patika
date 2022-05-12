@@ -9,5 +9,7 @@ public class DizidekiElemanlarinOrtalamasi {
         }
         int ortalama = value / (dizi.length);
         System.out.println("Dizinin Ortalamasi: " + ortalama);
+
+
     }
 }

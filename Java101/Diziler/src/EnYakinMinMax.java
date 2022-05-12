@@ -39,6 +39,8 @@ public class EnYakinMinMax {
         System.out.print("Girilen sayidan buyuk en yakin sayi : " + maxSayi);
 
 
+
+
     }
 }
 
