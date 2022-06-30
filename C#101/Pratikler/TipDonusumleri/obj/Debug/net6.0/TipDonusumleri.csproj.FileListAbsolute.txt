@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.exe
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.dll
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\bin\Debug\net6.0\TipDonusumleri.pdb
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.dll
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\refint\TipDonusumleri.dll
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.pdb
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\TipDonusumleri.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\TipDonusumleri\obj\Debug\net6.0\ref\TipDonusumleri.dll
