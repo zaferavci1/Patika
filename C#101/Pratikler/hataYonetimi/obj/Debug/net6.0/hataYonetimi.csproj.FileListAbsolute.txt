@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\bin\Debug\net6.0\hataYonetimi.exe
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\bin\Debug\net6.0\hataYonetimi.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\bin\Debug\net6.0\hataYonetimi.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\bin\Debug\net6.0\hataYonetimi.dll
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\bin\Debug\net6.0\hataYonetimi.pdb
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.dll
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\refint\hataYonetimi.dll
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.pdb
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\hataYonetimi.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\hataYonetimi\obj\Debug\net6.0\ref\hataYonetimi.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\Degiskenler\\Degiskenler.csproj": {}
+    "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\hataYonetimi\\hataYonetimi.csproj": {}
   },
   "projects": {
-    "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\Degiskenler\\Degiskenler.csproj": {
+    "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\hataYonetimi\\hataYonetimi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\Degiskenler\\Degiskenler.csproj",
-        "projectName": "Degiskenler",
-        "projectPath": "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\Degiskenler\\Degiskenler.csproj",
+        "projectUniqueName": "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\hataYonetimi\\hataYonetimi.csproj",
+        "projectName": "hataYonetimi",
+        "projectPath": "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\hataYonetimi\\hataYonetimi.csproj",
         "packagesPath": "C:\\Users\\ZAFER\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\Degiskenler\\obj\\",
+        "outputPath": "C:\\github\\Patika\\Patika\\C#101\\Pratikler\\hataYonetimi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZAFER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
