@@ -1,0 +1,16 @@
+C:\github\Patika\Patika\C#101\bin\Debug\net5.0\C#101.exe
+C:\github\Patika\Patika\C#101\bin\Debug\net5.0\C#101.deps.json
+C:\github\Patika\Patika\C#101\bin\Debug\net5.0\C#101.runtimeconfig.json
+C:\github\Patika\Patika\C#101\bin\Debug\net5.0\C#101.runtimeconfig.dev.json
+C:\github\Patika\Patika\C#101\bin\Debug\net5.0\C#101.dll
+C:\github\Patika\Patika\C#101\bin\Debug\net5.0\C#101.pdb
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.dll
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\refint\C#101.dll
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.pdb
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\C#101.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\obj\Debug\net5.0\ref\C#101.dll

@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.exe
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.dll
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\bin\Debug\net6.0\Degiskenler.pdb
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.dll
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\refint\Degiskenler.dll
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.pdb
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\Degiskenler\obj\Debug\net6.0\ref\Degiskenler.dll
