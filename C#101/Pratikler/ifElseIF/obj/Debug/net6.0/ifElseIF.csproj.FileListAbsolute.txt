@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\bin\Debug\net6.0\ifElseIF.exe
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\bin\Debug\net6.0\ifElseIF.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\bin\Debug\net6.0\ifElseIF.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\bin\Debug\net6.0\ifElseIF.dll
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\bin\Debug\net6.0\ifElseIF.pdb
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.dll
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\refint\ifElseIF.dll
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.pdb
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ifElseIF.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\ifElseIF\obj\Debug\net6.0\ref\ifElseIF.dll
