@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\bin\Debug\net6.0\dongulerForLoop.exe
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\bin\Debug\net6.0\dongulerForLoop.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\bin\Debug\net6.0\dongulerForLoop.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\bin\Debug\net6.0\dongulerForLoop.dll
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\bin\Debug\net6.0\dongulerForLoop.pdb
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.dll
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\refint\dongulerForLoop.dll
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.pdb
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\dongulerForLoop.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\dongulerForLoop\obj\Debug\net6.0\ref\dongulerForLoop.dll
