@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\diziler\bin\Debug\net6.0\diziler.exe
+C:\github\Patika\Patika\C#101\Pratikler\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\diziler\bin\Debug\net6.0\diziler.dll
+C:\github\Patika\Patika\C#101\Pratikler\diziler\bin\Debug\net6.0\diziler.pdb
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.dll
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\refint\diziler.dll
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.pdb
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\diziler\obj\Debug\net6.0\ref\diziler.dll
