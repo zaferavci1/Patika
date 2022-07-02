@@ -38,7 +38,7 @@ namespace dongulerForLoop
                 {
                     break;
                 }
-                    System.Console.WriteLine(i);
+                System.Console.WriteLine(i);
             }
         }
     }
