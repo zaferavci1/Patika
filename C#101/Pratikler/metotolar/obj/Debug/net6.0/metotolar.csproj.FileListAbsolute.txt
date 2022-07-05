@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\bin\Debug\net6.0\metotolar.exe
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\bin\Debug\net6.0\metotolar.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\bin\Debug\net6.0\metotolar.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\bin\Debug\net6.0\metotolar.dll
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\bin\Debug\net6.0\metotolar.pdb
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.dll
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\refint\metotolar.dll
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.pdb
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\metotolar.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\metotolar\obj\Debug\net6.0\ref\metotolar.dll
