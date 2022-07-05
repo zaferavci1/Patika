@@ -24,6 +24,9 @@ namespace switchCase
             //metot aşırı yükleme - overloading
             int ifade=999;
             ornek.ekranaYazdir(Convert.ToString(ifade));
+
+            //metot imzası
+            //metot adı - parametre adı - parametre
         }
     }
     class Metotlar
