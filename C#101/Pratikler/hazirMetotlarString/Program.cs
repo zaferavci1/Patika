@@ -38,6 +38,7 @@ namespace hazirMetotlarString
             //Insert
             System.Console.WriteLine(degisken.Insert(0,"Merhaba"));
 
+
             //PadLeft  PadRight
             System.Console.WriteLine(degisken+degisken2.PadLeft(30));
             System.Console.WriteLine(degisken+degisken2.PadLeft(30,'z'));
