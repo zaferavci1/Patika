@@ -45,6 +45,8 @@ namespace hataYonetimi
             finally{
                 System.Console.WriteLine("İşlem başarıyla tamamalandı");
             }
+            
+  
         }
     }
 }
