@@ -55,8 +55,8 @@ namespace hazirMetotlarString
             System.Console.WriteLine(degisken.Split(' ')[1]);
 
             //Substring
-            System.Console.WriteLine(degisken.Substring(4));
-            System.Console.WriteLine(degisken.Substring(4,6));
+            System.Console.WriteLine(degisken.Substring(4));//4 ten sona kadar 
+            System.Console.WriteLine(degisken.Substring(4,6)); //4 ten 6 ya kadar
         }
     }
 }

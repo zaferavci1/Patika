@@ -1,8 +1,8 @@
-import java.util.Random;
+package MayınTarlasi;
 
 public class Main {
     public static void main(String[] args) {
-        mine m1=new mine();
-        m1.run();
+        MineSwapper mineSwapper = new MineSwapper(4,4);
+        mineSwapper.run(););
     }
 }
