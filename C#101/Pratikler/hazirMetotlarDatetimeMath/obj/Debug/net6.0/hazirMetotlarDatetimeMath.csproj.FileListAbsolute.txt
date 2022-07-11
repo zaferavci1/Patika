@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\bin\Debug\net6.0\hazirMetotlarDatetimeMath.exe
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\bin\Debug\net6.0\hazirMetotlarDatetimeMath.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\bin\Debug\net6.0\hazirMetotlarDatetimeMath.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\bin\Debug\net6.0\hazirMetotlarDatetimeMath.dll
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\bin\Debug\net6.0\hazirMetotlarDatetimeMath.pdb
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.dll
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\refint\hazirMetotlarDatetimeMath.dll
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.pdb
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\hazirMetotlarDatetimeMath.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\hazirMetotlarDatetimeMath\obj\Debug\net6.0\ref\hazirMetotlarDatetimeMath.dll
