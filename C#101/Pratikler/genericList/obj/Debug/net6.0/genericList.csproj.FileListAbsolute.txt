@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\genericList\bin\Debug\net6.0\genericList.exe
+C:\github\Patika\Patika\C#101\Pratikler\genericList\bin\Debug\net6.0\genericList.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\genericList\bin\Debug\net6.0\genericList.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\genericList\bin\Debug\net6.0\genericList.dll
+C:\github\Patika\Patika\C#101\Pratikler\genericList\bin\Debug\net6.0\genericList.pdb
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.dll
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\refint\genericList.dll
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.pdb
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\genericList.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\genericList\obj\Debug\net6.0\ref\genericList.dll
