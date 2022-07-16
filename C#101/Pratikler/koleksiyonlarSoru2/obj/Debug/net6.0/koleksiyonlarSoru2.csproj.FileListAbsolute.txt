@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\bin\Debug\net6.0\koleksiyonlarSoru2.exe
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\bin\Debug\net6.0\koleksiyonlarSoru2.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\bin\Debug\net6.0\koleksiyonlarSoru2.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\bin\Debug\net6.0\koleksiyonlarSoru2.dll
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\bin\Debug\net6.0\koleksiyonlarSoru2.pdb
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.dll
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\refint\koleksiyonlarSoru2.dll
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.pdb
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\koleksiyonlarSoru2.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\koleksiyonlarSoru2\obj\Debug\net6.0\ref\koleksiyonlarSoru2.dll
