@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\bin\Debug\net6.0\sinifKavramı.exe
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\bin\Debug\net6.0\sinifKavramı.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\bin\Debug\net6.0\sinifKavramı.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\bin\Debug\net6.0\sinifKavramı.dll
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\bin\Debug\net6.0\sinifKavramı.pdb
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.dll
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\refint\sinifKavramı.dll
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.pdb
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\sinifKavramı.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\sinifKavramı\obj\Debug\net6.0\ref\sinifKavramı.dll
