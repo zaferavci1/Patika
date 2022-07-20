@@ -21,35 +21,56 @@ namespace sinifKavrami
             // * Private
             // * Internal
             // * Protected
-
-            Calisan calisan1=new Calisan();
-            calisan1.Ad="Zafer";
-            calisan1.Soyad="Avcı";
-            calisan1.No=123589766;
-            calisan1.Departman="Müdür";
-
+            Console.WriteLine("--****---** Calisan 1*/-**---**--");
+            Calisan calisan1=new Calisan("zafer","avcı","müdür",12893456);
             calisan1.CalisanBilgiler();
 
-            Calisan calisan2=new Calisan();
+            Console.WriteLine("--****---** Calisan 2*/-**---**--");
 
+            Calisan calisan2=new Calisan();
             calisan2.Ad="Boran";
             calisan2.Soyad="Avcı";
             calisan2.No=15696878;
             calisan2.Departman="Müğdür";
             calisan2.CalisanBilgiler();
 
+            
+            Console.WriteLine("--****---** Calisan 3*/-**---**--");
+
+            Calisan calisan3=new Calisan("zikriye ","ürkmez");
+            calisan3.CalisanBilgiler();
+
         }
     }
-    class Calisan
+
+
+
+
+class Calisan
     {
         public string Ad;
         public string Soyad;
         public int No;
         public string Departman;
-        
+
+        public Calisan(string ad,string soyad,string departman,int no)
+        {
+            this.Ad=ad;
+            this.Soyad=soyad;
+            this.No=no;
+            this.Departman=departman;
+        }
+
+        public Calisan(string ad,string soyad)
+        {
+            this.Ad=ad;
+            this.Soyad=soyad;
+        }
+
+        public Calisan (){}
 
         public void CalisanBilgiler(){
-            Console.WriteLine("Çalışan ADı: {0}", Ad);
+            Console.WriteLine("Çalışan Adı: {0}", Ad);
             System.Console.WriteLine("Çalışan Sayısı: {0}",Soyad);
             System.Console.WriteLine("Çalışan Numarası: {0}",No);
             System.Console.WriteLine("Çalışan Departmanı: {0}",Departman);

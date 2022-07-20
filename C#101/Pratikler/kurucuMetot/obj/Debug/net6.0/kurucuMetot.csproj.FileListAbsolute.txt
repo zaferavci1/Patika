@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\bin\Debug\net6.0\kurucuMetot.exe
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\bin\Debug\net6.0\kurucuMetot.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\bin\Debug\net6.0\kurucuMetot.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\bin\Debug\net6.0\kurucuMetot.dll
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\bin\Debug\net6.0\kurucuMetot.pdb
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.dll
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\refint\kurucuMetot.dll
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.pdb
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\kurucuMetot.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\kurucuMetot\obj\Debug\net6.0\ref\kurucuMetot.dll
