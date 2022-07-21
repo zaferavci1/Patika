@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\bin\Debug\net6.0\csharpEnum.exe
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\bin\Debug\net6.0\csharpEnum.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\bin\Debug\net6.0\csharpEnum.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\bin\Debug\net6.0\csharpEnum.dll
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\bin\Debug\net6.0\csharpEnum.pdb
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.dll
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\refint\csharpEnum.dll
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.pdb
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\csharpEnum.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\csharpEnum\obj\Debug\net6.0\ref\csharpEnum.dll
