@@ -1,8 +1,17 @@
 
+namespace inheritance
+{
+   
     public class bitkiler:canlilar
     {
         protected void Fotosentez(){
         Console.WriteLine("bitkiler fotosentez yapar");
+        }
+
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir");
         }
     }
 
@@ -13,6 +22,7 @@
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         }
         public void TohumlaCogalma(){
             
@@ -33,3 +43,4 @@
             Console.WriteLine("Tohumsuz bitkiler sporla çoğalır");
         }
     }
+}
