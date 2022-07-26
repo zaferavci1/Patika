@@ -13,7 +13,6 @@ namespace inheritance
 
             Kuslar martı=new Kuslar();
             martı.Ucmak();
-
         }
     }
 }

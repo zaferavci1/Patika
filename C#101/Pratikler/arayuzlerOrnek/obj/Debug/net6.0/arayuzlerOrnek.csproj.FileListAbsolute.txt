@@ -1,0 +1,5 @@
+C:\github\Patika\Patika\C#101\Pratikler\arayuzlerOrnek\obj\Debug\net6.0\arayuzlerOrnek.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\arayuzlerOrnek\obj\Debug\net6.0\arayuzlerOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\arayuzlerOrnek\obj\Debug\net6.0\arayuzlerOrnek.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\arayuzlerOrnek\obj\Debug\net6.0\arayuzlerOrnek.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\arayuzlerOrnek\obj\Debug\net6.0\arayuzlerOrnek.csproj.CoreCompileInputs.cache

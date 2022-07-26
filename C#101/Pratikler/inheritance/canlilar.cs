@@ -20,7 +20,7 @@ namespace inheritance
         }
     }
     //Sealed anahtar kelimesi kalıtım vermeyi engelliyor 
-    //Polymorphisim virtual fonksiyon ile gerçekleştirdik
+    //Polymorphism virtual fonksiyon ile gerçekleştirdik
     //Virtual anahtar kelimesiyle yaılmış bir metot herhangi bir yerden override yapılarak- 
     //tekrardan içeriği değiştirilebilir
     

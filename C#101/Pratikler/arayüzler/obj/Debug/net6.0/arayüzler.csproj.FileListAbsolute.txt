@@ -1,0 +1,15 @@
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\bin\Debug\net6.0\arayüzler.exe
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\bin\Debug\net6.0\arayüzler.deps.json
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\bin\Debug\net6.0\arayüzler.runtimeconfig.json
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\bin\Debug\net6.0\arayüzler.dll
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\bin\Debug\net6.0\arayüzler.pdb
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.csproj.AssemblyReference.cache
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.AssemblyInfoInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.AssemblyInfo.cs
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.csproj.CoreCompileInputs.cache
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.dll
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\refint\arayüzler.dll
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.pdb
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\arayüzler.genruntimeconfig.cache
+C:\github\Patika\Patika\C#101\Pratikler\arayüzler\obj\Debug\net6.0\ref\arayüzler.dll
